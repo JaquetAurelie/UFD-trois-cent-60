@@ -1,0 +1,13 @@
+html {
+  --color-accent: #e44b44;
+  --color-bg: #efebe2;
+  --color-text-main: #1a181a;
+  --color-text-secondary: #4b4b4b;
+}
+
+html[data-theme="dark"] {
+  --color-accent: #e44b44;
+  --color-bg: #1a181a;
+  --color-text-main: #efebe2;
+  --color-text-secondary: #aaaaaa;
+}
